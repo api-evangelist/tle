@@ -1,0 +1,32 @@
+aid: tle
+name: TLE
+description: "Satellite information"
+url: https://tle.ivanstanojevic.me/#/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: TLE
+    description: "Satellite information"
+    humanURL: https://tle.ivanstanojevic.me/#/docs
+    baseURL: https://tle.ivanstanojevic.me/#/docs
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: https://tle.ivanstanojevic.me/#/docs
+common:
+  - type: Website
+    url: https://tle.ivanstanojevic.me/#/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
