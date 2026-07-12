@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://tle.ivanstanojevic.me/#/docs
 common:
+  - type: DomainSecurity
+    url: security/tle-domain-security.yml
   - type: Website
     url: https://tle.ivanstanojevic.me/#/docs
   - type: PublicAPIsListing
