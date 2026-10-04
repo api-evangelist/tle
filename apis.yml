@@ -33,13 +33,13 @@ x-category: "Science & Math"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Science And Math
   - Public APIs
+  - Satellite
+  - Space
 apis:
   - name: TLE
     description: "Satellite information"
     humanURL: https://tle.ivanstanojevic.me/#/docs
-    baseURL: https://tle.ivanstanojevic.me/#/docs
     tags:
       - Science And Math
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Science And Math
