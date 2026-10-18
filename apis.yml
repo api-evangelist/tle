@@ -40,7 +40,8 @@ apis:
   - name: TLE
     description: "Satellite information"
     humanURL: https://tle.ivanstanojevic.me/#/docs
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
